@@ -1,0 +1,8 @@
+Revision history for Perl extension Gtk2::Ex::FormFactory::DateEntry.
+
+0.01  Thurs Oct 23, 2009	16:33:00
+	- initial release
+
+0.02  Fri   Oct 23, 2009	20:53:00
+	- added tests
+	- updated pod
